@@ -10,3 +10,5 @@ int main(void) {
 	printf("Sum of the entered values: %d",sum);
 	return EXIT_SUCCESS;
 }
+
+This is done for adding the values of two integer numbers.
